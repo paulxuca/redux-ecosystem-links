@@ -81,7 +81,8 @@
 
 - **combined-reduction**  
   https://github.com/convoyinc/combined-reduction  
-  Like Redux's combineReducers, but more better!  Allows definition of nested reducers and multiple top-level reducers.
+  Like Redux's combineReducers, but more better!  Allows definition of 
+  reducers and multiple top-level reducers.
   
 - **redux-reducer-delegate**  
   https://github.com/wmira/redux-reducer-delegate  
@@ -232,8 +233,8 @@
   An alternate way to combine Redux reducers, by specifying "branches" and "leaves", then declaring all updates that should apply across the tree for a given action.
   
 - **combine-nested-reducers**  
-  https://github.com/rohozhnikoff/combine-nested-reducers  
-  The original combineReducers from redux, with the ability to create deep scheme of reducers 
+  https://github.com/paulxuca/combine-nested-reducers
+  The original combineReducers from redux, with the ability to create deep scheme of reducers
   
 - **action-u**  
   https://github.com/KevinAst/action-u  
